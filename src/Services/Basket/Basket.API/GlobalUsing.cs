@@ -8,3 +8,5 @@ global using BuildingBlocks.Behaviors;
 global using Basket.API.Exceptions;
 global using Marten;
 global using Basket.API.Data;
+global using Microsoft.Extensions.Caching.Distributed;
+global using System.Text.Json;
